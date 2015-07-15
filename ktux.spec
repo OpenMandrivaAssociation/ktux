@@ -23,7 +23,7 @@ Tux-in-a-Spaceship screensaver.
 %{_bindir}/ktux
 %{_datadir}/apps/ktux
 %{_iconsdir}/hicolor/*/apps/ktux.*
-%{_services}/kde4/services/ScreenSavers/ktux.desktop
+%{_datadir}/kde4/services/ScreenSavers/ktux.desktop
 
 #-------------------------------------------------------------------
 
