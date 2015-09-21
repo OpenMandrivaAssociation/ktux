@@ -1,7 +1,7 @@
 Summary:	Tux-in-a-Spaceship screensaver
 Name:		ktux
-Version:	15.04.3
-Release:	3
+Version:	15.08.1
+Release:	1
 Epoch:		1
 Group:		Graphical desktop/KDE
 License:	GPLv2+
@@ -31,7 +31,7 @@ Tux-in-a-Spaceship screensaver.
 %setup -q
 
 %build
-%cmake_kde4
+%cmake_kde4 -DCMAKE_MINIMUM_REQUIRED_VERSION=2.6
 %make
 
 %install

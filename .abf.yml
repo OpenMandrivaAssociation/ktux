@@ -1,2 +1,4 @@
-sources:
+removed_sources:
   ktux-15.04.3.tar.xz: 89d460458b38af67ceff81152cbf7b71139d882b
+sources:
+  ktux-15.08.1.tar.xz: 30ce426a1bdb361f85aaaf762882212831d3eaab
